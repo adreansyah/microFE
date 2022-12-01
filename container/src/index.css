@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+.color-vote{
+  padding: 11px;
+  background: #0a0101;
+  color: white;
+  bottom: 78vh;
+  border-radius: 100%;
+  border: 2px solid #3cd73c;
+  left: 7px;
+  top: -12px;
+  justify-content: space-around;
+  position: relative;
+}
